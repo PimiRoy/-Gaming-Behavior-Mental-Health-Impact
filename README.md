@@ -2,7 +2,7 @@ Project Title
 
 Job in AI Era: Future of Work & Skills Transformation
 
-![Job in AI Era](https://raw.githubusercontent.com/PimiRoy/pimika-roy-portfolio/main/ChatGPT%20Image%20Jun%205%2C%202026%2C%2006_23_38%20PM%20(1).png)
+![Job in AI Era](https://github.com/PimiRoy/-Job-in-AI-Era-And--Impact/blob/main/AI%20Era.png)
 
 Objective
 
